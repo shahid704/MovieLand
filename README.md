@@ -1,5 +1,14 @@
 # MovieLand Website with React.js
 
+<p align="center">
+Movie-land is built with react, deployed and hosted on vercel. <br>
+Movie-land is api based website that is used to search for movies, and display the results.
+</p
+  
+![image](https://github.com/shahid704/MovieLand/assets/68416468/f5660994-50ad-4845-ab05-538d3635d0f0)
+
+![image](https://github.com/shahid704/MovieLand/assets/68416468/2bd4efea-b207-4a67-b7e1-a76b9f41737d)
+
 
 # Getting Started with Create React App
 
